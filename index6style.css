@@ -1,0 +1,29 @@
+body {
+  background-image: url(grape_background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.btn-primary {
+  background-color: rgba(66, 30, 150, 50%);
+  border: 2px solid rgba(66, 30, 150, 25%);
+}
+
+.btn-primary:hover {
+  background-color: rgba(66, 30, 150, 75%);
+  border: 2px solid rgba(66, 30, 150, 50%);
+}
+
+.text {
+  color: rgba(66, 30, 150, 85%);
+  font-size: 42px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Indie Flower';
+}
+
+.container {
+  position: absolute;
+  top: 45%;
+}
